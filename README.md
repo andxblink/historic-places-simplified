@@ -7,7 +7,10 @@ The aim is to provide a searchable location file of well known historic cities (
 
 But the advatage is that it provides (me with) a dataset of city names that can be used in various other softwares.
 
-From the source, I deleted details that is not needed to find and place a location. All that is left is: lat/long, city name, as well as start-year/end-year.
+From the source, I deleted details that is not needed to find and place a location. All that is left is:
+- lat/long
+- city name
+- start-year/end-year.
 
 ## Example
 I use this in AfterEffects for animating maps. If I want to find the correct location of Babylon, I would have to click around the internet, Wikipedia, GoogleMaps, OpenStreetmap > then write down Lat/Long > copy/paste.
