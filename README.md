@@ -18,8 +18,8 @@ I use this in AfterEffects for animating maps. If I want to find the correct loc
 With this little file, I have the well known cities programatically at hand.
 
 ## Sources
-https://pleiades.stoa.org/downloads#json
-https://github.com/ryanfb/pleiades-geojson
+- https://pleiades.stoa.org/downloads#json
+- https://github.com/ryanfb/pleiades-geojson
 
 ## Data quality disclaimer
 I only checked a few places and they seemed correct. Good enough for my usecase, but I do not recommend this for scientific purposes.
