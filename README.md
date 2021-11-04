@@ -19,7 +19,6 @@ With this little file, I have the well known cities programatically at hand.
 
 ## Sources
 https://pleiades.stoa.org/downloads#json
-
 https://github.com/ryanfb/pleiades-geojson
 
 ## Data quality disclaimer
