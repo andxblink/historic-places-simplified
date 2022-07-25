@@ -3,7 +3,9 @@ Based on Plaiades Dataset "Places"
 
 *as of 4th November 2021*
 
-https://github.com/andxblink/historic-places-simplified/blob/main/preview_historic-places.png
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/andxblink/historic-places-simplified/blob/main/preview_historic-places.png)?raw=true)
+
+
 
 The aim is to provide a searchable location file of well known historic cities (settlements). This file is not totally cleaned, not researched in detail, and will not be upated very often.
 
