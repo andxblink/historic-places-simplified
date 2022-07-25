@@ -20,3 +20,6 @@ From the source, I deleted details that is not needed to find and place a locati
 I only checked a few places and they seemed correct. Good enough for my usecase, but I do not recommend this for scientific purposes.
 
 Also - and sorry Pleiades Project - the whole dataset appears to be skewed towards *"Western / European / Mid-Eastern"* history. I do not see any *"American"* points, and *"Asian / Indian / Central-East"* points only if for example Acient Greeks visited there.
+
+## And yes...
+... I do realise that it should be called "historical places", but now I don't want to change the name.
