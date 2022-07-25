@@ -1,11 +1,10 @@
 # Historic Places - Simplified
-Based on Plaiades Dataset "Places"
+This is still incorrecly formatted. The data is correct but the output needs to be corrected. I am on it
 
-*as of 4th November 2021*
-
+## Based on
+Plaiades Dataset "Places" *as of 4th November 2021*
 
 ![preview_historic-places](https://user-images.githubusercontent.com/4697576/180746303-c9506782-a116-4e03-a9a5-72c1b12eeac3.png)
-
 
 The aim is to provide a searchable location file of well known historic cities (settlements). This file is not totally cleaned, not researched in detail, and will not be upated very often.
 
