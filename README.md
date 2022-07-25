@@ -3,7 +3,7 @@ Based on Plaiades Dataset "Places"
 
 *as of 4th November 2021*
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/andxblink/historic-places-simplified/blob/main/preview_historic-places.png)?raw=true)
+([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/andxblink/historic-places-simplified/blob/main/preview_historic-places.png)?raw=true)
 
 
 
