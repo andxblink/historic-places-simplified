@@ -25,4 +25,4 @@ I only checked a few places and they seemed correct. Good enough for my usecase,
 Also - and sorry Pleiades Project - the whole dataset appears to be skewed towards *"Western / European / Mid-Eastern"* history. I do not see any *"American"* points, and *"Asian / Indian / Central-East"* points only if for example Acient Greeks visited there.
 
 ## And yes...
-... I do realise that it should be called "historical places", but now I don't want to change the name.
+... I do realise that it should be called "historical places", but now I don't want to change the name. Then again, these places actually are "historic", so it isn't totally wrong.
